@@ -1,0 +1,12 @@
+杭	NR	B-ORG
+州	NR	I-ORG
+大	NN	I-ORG
+学	NN	E-ORG
+位	VV	O
+于	VV	O
+浙	NR	B-GPE
+江	NR	I-GPE
+省	NR	E-GPE
+杭	NR	B-GPE
+州	NR	I-GPE
+市	NR	E-GPE
